@@ -74,11 +74,11 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886765-et8hrgjm.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886765-et8hrgjm.jpg?_wi=1",
           imageAlt: "Restaurant Ambience",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886765-o8urqvcg.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886765-o8urqvcg.jpg?_wi=1",
           imageAlt: "Signature Dessert",
         },
         {
@@ -86,15 +86,15 @@ export default function LandingPage() {
           imageAlt: "Delicious Meal",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886766-5ou0ge64.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886766-5ou0ge64.jpg?_wi=1",
           imageAlt: "Interior View",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886766-s494wkxd.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886766-s494wkxd.jpg?_wi=1",
           imageAlt: "Gourmet Dish",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/part-home-kitchen-table-setting-with-gray-plates-bouquet-vase_169016-15715.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/part-home-kitchen-table-setting-with-gray-plates-bouquet-vase_169016-15715.jpg?_wi=1",
           imageAlt: "Happy Atmosphere",
         },
       ]}
@@ -122,7 +122,7 @@ export default function LandingPage() {
           description: "Located right in Nairobi's busy Kaunda St.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/part-home-kitchen-table-setting-with-gray-plates-bouquet-vase_169016-15715.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/part-home-kitchen-table-setting-with-gray-plates-bouquet-vase_169016-15715.jpg?_wi=2"
       imageAlt="Our lush restaurant interior"
       mediaAnimation="slide-up"
     />
@@ -140,7 +140,7 @@ export default function LandingPage() {
           name: "Grilled Chicken Platter",
           price: "Ksh 1,500",
           variant: "Main",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886766-5ou0ge64.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886766-5ou0ge64.jpg?_wi=2",
         },
         {
           id: "p2",
@@ -202,7 +202,7 @@ export default function LandingPage() {
           title: "Family Friendly",
           description: "Perfect for gatherings of all sizes.",
           tag: "Welcome",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886765-et8hrgjm.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886765-et8hrgjm.jpg?_wi=2",
           imageAlt: "Dining table in a modern boho chic aesthetic dining room",
         },
         {
@@ -210,7 +210,7 @@ export default function LandingPage() {
           title: "Healthy Options",
           description: "Delicious choices for a balanced diet.",
           tag: "Fresh",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886765-o8urqvcg.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886765-o8urqvcg.jpg?_wi=2",
           imageAlt: "Dining table in a modern boho chic aesthetic dining room",
         },
       ]}
@@ -327,7 +327,7 @@ export default function LandingPage() {
           placeholder: "Your Email",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886766-s494wkxd.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E94Ghjx06bf9q1kdrpP5hjCvx0/uploaded-1779617886766-s494wkxd.jpg?_wi=2"
       imageAlt="Our restaurant location"
     />
   </div>
